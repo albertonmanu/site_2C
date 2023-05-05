@@ -1,4 +1,6 @@
-body{
-    background-color: bisque;
-    background-color: aqua;
+.corpo-do-site{
+    background-color: rgb(255, 239, 196);
+}
+.cabeçalho{
+    background-image: linear-gradient(red, white);
 }
