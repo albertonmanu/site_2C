@@ -1,6 +1,6 @@
 .corpo-do-site{
-    background-color: rgb(186, 253, 255);
+    background-color: rgb(181, 247, 252);
 }
 .cabeçalho{
-    background-image: linear-gradient(red, white);
+    background-image: linear-gradient(rgb(181, 247, 252), white);
 }
