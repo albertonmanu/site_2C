@@ -1,6 +1,43 @@
-.corpo-do-site{
-    background-color: rgb(181, 247, 252);
-}
-.cabeçalho{
-    background-image: linear-gradient(rgb(181, 247, 252), white);
-}
+* {
+    margin: 0%;
+    padding: 0%;
+    }
+    
+    .cabeçalho{
+    background-color: rgb(117, 211, 255);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    }
+    
+    .cabeçalho_imagem{
+    width: 12%;
+    }
+    
+    .cabeçalho_titulo{
+    font-size: 50px;
+    }
+    
+    .cabeçalho_lista_item{
+    margin: 25px 0px 25px 0px;
+    font-size: 16px;
+    }
+    
+    .apresentaçao_trabalho{
+    background-image: linear-gradient(rgb(255, 255, 255), #81e7f5);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    }
+    
+    .titulo_apresentaçao_trabalho{
+    font-size: 30px;
+    }
+    
+    .imagem_arvore{
+    width: 15%;
+    }
+    
