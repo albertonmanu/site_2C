@@ -41,3 +41,11 @@
     width: 15%;
     }
     
+    .apresentaçao_trabalho{
+        background-image: linear-gradient(rgb(183, 225, 245), #a3eef8);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 24px 0;
+        }
+    
