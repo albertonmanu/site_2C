@@ -25,12 +25,10 @@
     font-size: 20px;
     }
     
-    .apresentaçao_trabalho{
-    background-image: linear-gradient(rgb(144, 218, 253), #a3eef8);
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 50px 0;
+    .titulo_apresentaçao_trabalho{
+    background-image: linear-gradient(rgb(144, 218, 253), #13474e);
+    padding: 0px;
+    font-size: 30px;
     }
     
     .titulo_apresentaçao_trabalho{
