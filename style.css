@@ -15,18 +15,7 @@
     .cabeçalho_imagem{
     width: 30%;
     }
-    
-    .cabeçalho_titulo{
-    font-size: 50px;
-    }
-    
-    .cabeçalho_lista_item{
-    margin: 5px 10px 30px 5px;
-    font-size: 20px;
-    }
-    
-    .titulo_apresentaçao_trabalho{
-    background-image: linear-gradient(rgb(144, 218, 253), #13474e);
+    Desenvolvimento da Plantae);
     padding: 0px;
     font-size: 30px;
     }
@@ -35,7 +24,8 @@
     font-size: 30px;
     }
     
-    .f15b0b2d-c477-4e2e-b993-4f6888d79059.jpeg{
+    .f15b0b2d-c477-4e2e-b993-4f6888d79059.jpeg
+    background-image: linear-gradient(rgb(144, 218, 253),
     width: 40%;
     }
     
